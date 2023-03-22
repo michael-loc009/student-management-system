@@ -1,0 +1,194 @@
+{
+	"Ma_so": "CT_1",
+	"Ten": "Công ty X",
+	"Dien_thoai": "028-123456",
+	"Dia_chi": "123",
+	"Quy_dinh_Nhan_vien": {
+		"Tuoi_toi_da": 55,
+		"Tuoi_toi_thieu": 18,
+		"Luong_toi_thieu": 7500000,
+		"So_Ngoai_ngu_toi_thieu": 1,
+		"So_Ngay_nghi_toi_da": 10,
+		"Ngay_Bat_dau_nghi_toi_thieu": 7
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ma_so": "ANH",
+			"Ten": "Anh"
+		},
+		{
+			"Ma_so": "PHAP",
+			"Ten": "Pháp"
+		},
+		{
+			"Ma_so": "NGA",
+			"Ten": "Nga"
+		},
+		{
+			"Ma_so": "DUC",
+			"Ten": "Đức"
+		},
+		{
+			"Ma_so": "Y",
+			"Ten": "Ý"
+		}
+	],
+	"Danh_sach_Don_vi": [
+		{
+			"Ma_so": "DV_A1",
+			"Ten": "Dịch thuật",
+			"Chi_nhanh": {
+				"Ma_so": "CN_A",
+				"Ten": "Chi nhánh A"
+			}
+		},
+		{
+			"Ma_so": "DV_A2",
+			"Ten": "Đa năng A",
+			"Chi_nhanh": {
+				"Ma_so": "CN_A",
+				"Ten": "Chi nhánh A"
+			}
+		},
+		{
+			"Ma_so": "DV_B1",
+			"Ten": "Tư vấn du học 1",
+			"Chi_nhanh": {
+				"Ma_so": "CN_B",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_B2",
+			"Ten": "Tư vấn du học 2",
+			"Chi_nhanh": {
+				"Ma_so": "CN_B",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_B3",
+			"Ten": "Visa",
+			"Chi_nhanh": {
+				"Ma_so": "CN_B",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_B4",
+			"Ten": "Đa năng B",
+			"Chi_nhanh": {
+				"Ma_so": "CN_B",
+				"Ten": "Chi nhánh B"
+			}
+		}
+	],
+	"Danh_sach_Quan_ly_Chi_nhanh": [
+		{
+			"Ma_so": "QLCN_A",
+			"Ho_ten": "Nguyễn Thanh Minh",
+			"Ten_Dang_nhap": "QLCN_A",
+			"Mat_khau": "QLCN_A",
+			"Chi_nhanh": {
+				"Ma_so": "CN_A",
+				"Ten": "Chi nhánh A"
+			}
+		},
+		{
+			"Ma_so": "QLCN_B",
+			"Ho_ten": "Lê Ngọc Mỹ",
+			"Ten_Dang_nhap": "QLCN_B",
+			"Mat_khau": "QLCN_B",
+			"Chi_nhanh": {
+				"Ma_so": "CN_B",
+				"Ten": "Chi nhánh B"
+			}
+		}
+	],
+	"Danh_sach_Quan_ly_Don_vi": [
+		{
+			"Ma_so": "QLDV_A1",
+			"Ho_ten": "Trần Quang Khải",
+			"Ten_Dang_nhap": "QLDV_A1",
+			"Mat_khau": "QLDV_A1",
+			"Don_vi": {
+				"Ma_so": "DV_A1",
+				"Ten": "Dịch thuật",
+				"Chi_nhanh": {
+					"Ma_so": "CN_A",
+					"Ten": "Chi nhánh A"
+				}
+			}
+		},
+		{
+			"Ma_so": "QLDV_A2",
+			"Ho_ten": "Trần Thiện Khôi",
+			"Ten_Dang_nhap": "QLDV_A2",
+			"Mat_khau": "QLDV_A2",
+			"Don_vi": {
+				"Ma_so": "DV_A2",
+				"Ten": "Đa năng A",
+				"Chi_nhanh": {
+					"Ma_so": "CN_A",
+					"Ten": "Chi nhánh A"
+				}
+			}
+		},
+		{
+			"Ma_so": "QLDV_B1",
+			"Ho_ten": "Trần Minh Khuê",
+			"Ten_Dang_nhap": "QLDV_B1",
+			"Mat_khau": "QLDV_B1",
+			"Don_vi": {
+				"Ma_so": "DV_B1",
+				"Ten": "Tư vấn du học 1",
+				"Chi_nhanh": {
+					"Ma_so": "CN_B",
+					"Ten": "Chi nhánh B"
+				}
+			}
+		},
+		{
+			"Ma_so": "QLDV_B2",
+			"Ho_ten": "Nguyễn Tuyết Mai",
+			"Ten_Dang_nhap": "QLDV_B2",
+			"Mat_khau": "QLDV_B2",
+			"Don_vi": {
+				"Ma_so": "DV_B2",
+				"Ten": "Tư vấn du học 2",
+				"Chi_nhanh": {
+					"Ma_so": "CN_B",
+					"Ten": "Chi nhánh B"
+				}
+			}
+		},
+		{
+			"Ma_so": "QLDV_B3",
+			"Ho_ten": "Chu Thiện Mỹ",
+			"Ten_Dang_nhap": "QLDV_B3",
+			"Mat_khau": "QLDV_B3",
+			"Don_vi": {
+				"Ma_so": "DV_B3",
+				"Ten": "Visa",
+				"Chi_nhanh": {
+					"Ma_so": "CN_B",
+					"Ten": "Chi nhánh B"
+				}
+			}
+		},
+		{
+			"Ma_so": "QLDV_B4",
+			"Ho_ten": "Lê Minh Đạt",
+			"Ten_Dang_nhap": "QLDV_B4",
+			"Mat_khau": "QLDV_B4",
+			"Don_vi": {
+				"Ma_so": "DV_B4",
+				"Ten": "Đa năng B",
+				"Chi_nhanh": {
+					"Ma_so": "CN_B",
+					"Ten": "Chi nhánh B"
+				}
+			}
+		}
+	]
+}

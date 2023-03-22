@@ -1,0 +1,36 @@
+{
+    "CMND": "0567959643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "Ý"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        }
+    ],
+    "Dia_chi": "Nguyễn Xí Quận Bình Thạnh-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B4",
+        "Ten": "Đa năng B",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nữ",
+    "Ho_ten": "Nguyễn Tuyết Hằng",
+    "Ma_so": "NV_14",
+    "Mail": "nth@gmail.com",
+    "Mat_khau": "NV_14",
+    "Muc_luong": 7500000,
+    "Ngay_sinh": "06-06-1996",
+    "Ten_Dang_nhap": "NV_14"
+}

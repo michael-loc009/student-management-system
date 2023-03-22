@@ -1,0 +1,39 @@
+{
+ "CMND": "007958643",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Ma_so": "DXN_1",
+   "Ngay_Bat_dau": "29-04-2021",
+   "So_ngay": "5",
+   "Ly_do": "Nghỉ bệnh",
+   "Duyet_boi_Quan_li_Chi_nhanh": false,
+   "Duyet_boi_Quan_li_Don_vi": false,
+   "Y_kien_Quan_ly_Chi_nhanh": {},
+   "Y_kien_Quan_ly_Don_vi": {}
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  }
+ ],
+ "Dia_chi": "Lạc Long Quân Quận 11-TP. HCM\r\n",
+ "Dien_thoai": "0949134966",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_B",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_B2",
+  "Ten": "Tư vấn du học 2"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Trần Quang Minh",
+ "Ma_so": "NV_5",
+ "Mail": "tqm@gmailvn",
+ "Mat_khau": "NV_5",
+ "Muc_luong": 6500000,
+ "Ngay_sinh": "24-10-1995",
+ "Ten_Dang_nhap": "NV_5"
+}

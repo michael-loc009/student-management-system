@@ -1,0 +1,53 @@
+{
+ "CMND": "007958643",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Duyet_boi_Quan_li_Chi_nhanh": false,
+   "Duyet_boi_Quan_li_Don_vi": true,
+   "Ly_do": "Đi nghỉ mát",
+   "Ma_so": "DXN_1",
+   "Ngay_Bat_dau": "25-05-2021",
+   "So_ngay": "1",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Ngay": "04-04-2021",
+    "Noi_dung": "Xem xét"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Ngay": "04-04-2021",
+    "Noi_dung": "Okay"
+   }
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  }
+ ],
+ "Dia_chi": "Lê Đức thọ Quận Gò Vấp-TP. HCM\r\n",
+ "Dien_thoai": "0949134966",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_B",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_B4",
+  "Ten": "Đa năng B"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Lương Vĩ Khang",
+ "Ma_so": "NV_2",
+ "Mail": "lvk@gmail.com",
+ "Mat_khau": "NV_2",
+ "Muc_luong": 5000000,
+ "Ngay_sinh": "12-03-1984",
+ "Ten_Dang_nhap": "NV_2"
+}

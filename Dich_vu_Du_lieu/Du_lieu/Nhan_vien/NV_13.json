@@ -1,0 +1,36 @@
+{
+    "CMND": "007958643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "Ý"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        }
+    ],
+    "Dia_chi": "Âu Cơ Quận Tân Bình-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B4",
+        "Ten": "Đa năng B",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Trương Tuấn Kiệt",
+    "Ma_so": "NV_13",
+    "Mail": "ttk@gmail.com",
+    "Mat_khau": "NV_13",
+    "Muc_luong": 11000000,
+    "Ngay_sinh": "06-06-1989",
+    "Ten_Dang_nhap": "NV_13"
+}

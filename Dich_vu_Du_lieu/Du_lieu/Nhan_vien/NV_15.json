@@ -1,0 +1,28 @@
+{
+    "CMND": "007958643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        }
+    ],
+    "Dia_chi": "Lạc Long Quân Quận 11-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B1",
+        "Ten": "Tư vấn du học 1",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Trần Quế Tử",
+    "Ma_so": "NV_15",
+    "Mail": "tqt@gmail.com",
+    "Mat_khau": "NV_15",
+    "Muc_luong": 1500000,
+    "Ngay_sinh": "06-06-1975",
+    "Ten_Dang_nhap": "NV_15"
+}

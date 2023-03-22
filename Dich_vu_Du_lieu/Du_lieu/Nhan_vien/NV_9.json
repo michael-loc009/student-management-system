@@ -1,0 +1,36 @@
+{
+ "CMND": "007958643",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "NGA",
+   "Ten": "Nga"
+  },
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  }
+ ],
+ "Dia_chi": "Tô Ký Huyện Hóc Môn-TP. HCM\r\n",
+ "Dien_thoai": "0949134966",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_A",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_A1",
+  "Ten": "Dịch thuật"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Bế Phi Nam",
+ "Ma_so": "NV_9",
+ "Mail": "bpm@gmail.com",
+ "Mat_khau": "NV_9",
+ "Muc_luong": 6500000,
+ "Ngay_sinh": "24-10-1989",
+ "Ten_Dang_nhap": "NV_9"
+}

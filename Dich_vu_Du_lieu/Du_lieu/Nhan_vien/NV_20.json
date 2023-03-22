@@ -1,0 +1,39 @@
+{
+ "CMND": "005158457",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Ma_so": "DXN_1",
+   "Ngay_Bat_dau": "05-05-2021",
+   "So_ngay": "2",
+   "Ly_do": "Nghỉ bệnh",
+   "Duyet_boi_Quan_li_Chi_nhanh": false,
+   "Duyet_boi_Quan_li_Don_vi": false,
+   "Y_kien_Quan_ly_Chi_nhanh": {},
+   "Y_kien_Quan_ly_Don_vi": {}
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  }
+ ],
+ "Dia_chi": "Thống Nhất Quận Gò Vấp-TP. Hồ Chí Minh\r\n",
+ "Dien_thoai": "045846457",
+ "Don_vi": {
+  "Ma_so": "DV_B2",
+  "Ten": "Tư vấn du học 2",
+  "Chi_nhanh": {
+   "Ma_so": "CN_B",
+   "Ten": "Chi nhánh B"
+  }
+ },
+ "Gioi_tinh": "Nữ",
+ "Ho_ten": "Trần Kiều My",
+ "Ma_so": "NV_20",
+ "Mail": "tqm@gmail.com",
+ "Mat_khau": "NV_20",
+ "Muc_luong": 15000000,
+ "Ngay_sinh": "07-08-1993",
+ "Ten_Dang_nhap": "NV_20"
+}

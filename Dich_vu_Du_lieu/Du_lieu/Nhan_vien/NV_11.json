@@ -1,0 +1,36 @@
+{
+    "CMND": "007958643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Pháp"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "Ý"
+        }
+    ],
+    "Dia_chi": "An Dương Vương Quận 5-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B3",
+        "Ten": "Visa",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nữ",
+    "Ho_ten": "Lương Bích Hữu",
+    "Ma_so": "NV_11",
+    "Mail": "lbh@gmail.com",
+    "Mat_khau": "NV_11",
+    "Muc_luong": 11000000,
+    "Ngay_sinh": "06-06-1970",
+    "Ten_Dang_nhap": "NV_11"
+}

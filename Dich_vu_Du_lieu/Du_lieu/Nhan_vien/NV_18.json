@@ -1,0 +1,32 @@
+{
+    "CMND": "008358457",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        },
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Pháp"
+        }
+    ],
+    "Dia_chi": "Vận Hành Quận 9-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B2",
+        "Ten": "Tư vấn du học 2",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Chương Tuấn Mạnh",
+    "Ma_so": "NV_18",
+    "Mail": "ctm@gmail.com",
+    "Mat_khau": "NV_18",
+    "Muc_luong": 10500000,
+    "Ngay_sinh": "05-11-1979",
+    "Ten_Dang_nhap": "NV_18"
+}

@@ -1,0 +1,106 @@
+{
+ "Ten_Dang_nhap": "NV_1",
+ "Mat_khau": "NV_1",
+ "CMND": "007958643",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Duyet_boi_Quan_li_Chi_nhanh": true,
+   "Duyet_boi_Quan_li_Don_vi": true,
+   "Ly_do": "Bệnh",
+   "Ma_so": "DXN_1",
+   "Ngay_Bat_dau": "20-03-2021",
+   "So_ngay": 1,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Ngay": "18-03-2021",
+    "Noi_dung": "Duyệt"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Ngay": "15-03-2021",
+    "Noi_dung": "OK"
+   }
+  },
+  {
+   "Duyet_boi_Quan_li_Chi_nhanh": true,
+   "Duyet_boi_Quan_li_Don_vi": true,
+   "Ly_do": "Chăm sóc người bệnh",
+   "Ma_so": "DXN_2",
+   "Ngay_Bat_dau": "25-03-2021",
+   "So_ngay": 5,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Ngay": "04-04-2021",
+    "Noi_dung": "Duyệt"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Ngay": "04-04-2021",
+    "Noi_dung": "Okay"
+   }
+  },
+  {
+   "Duyet_boi_Quan_li_Chi_nhanh": false,
+   "Duyet_boi_Quan_li_Don_vi": true,
+   "Ly_do": "Đi nghỉ mát",
+   "Ma_so": "DXN_3",
+   "Ngay_Bat_dau": "10-04-2021",
+   "So_ngay": "4",
+   "Y_kien_Quan_ly_Chi_nhanh": {},
+   "Y_kien_Quan_ly_Don_vi": {
+    "Ngay": "04-04-2021",
+    "Noi_dung": "Đã duyệt"
+   }
+  },
+  {
+   "Duyet_boi_Quan_li_Chi_nhanh": true,
+   "Duyet_boi_Quan_li_Don_vi": true,
+   "Ly_do": "Chăm người bệnh",
+   "Ma_so": "DXN_4",
+   "Ngay_Bat_dau": "28-04-2021",
+   "So_ngay": "2",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Ngay": "10-04-2021",
+    "Noi_dung": "Duyệt"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Ngay": "10-04-2021",
+    "Noi_dung": "Đã duyệt"
+   }
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  },
+  {
+   "Ma_so": "Y",
+   "Ten": "Ý"
+  }
+ ],
+ "Dia_chi": "Hoàng Hoa Thám Quận 1 tp Hồ Chí Minh",
+ "Dien_thoai": "1235",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_B",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_B4",
+  "Ten": "Đa năng B"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Bành Thụy Khuê",
+ "Ma_so": "NV_1",
+ "Mail": "bđtkhuê@gmail.com",
+ "Muc_luong": 5000000,
+ "Ngay_sinh": "05-09-1990",
+ "Quy_dinh_Nhan_vien": {
+  "Luong_toi_thieu": 7500000,
+  "Ngay_Bat_dau_nghi_toi_thieu": 7,
+  "So_Ngay_nghi_toi_da": 10,
+  "So_Ngoai_ngu_toi_thieu": 1,
+  "Tuoi_toi_da": 55,
+  "Tuoi_toi_thieu": 18
+ }
+}

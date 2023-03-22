@@ -1,0 +1,32 @@
+{
+    "CMND": "007958643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        }
+    ],
+    "Dia_chi": "Tân Túc Huyện Bình Chánh-TP. HCM\r\n",
+    "Dien_thoai": "0949134966",
+    "Don_vi": {
+        "Ma_so": "DV_A2",
+        "Ten": "Đa năng A",
+        "Chi_nhanh": {
+            "Ma_so": "CN_A",
+            "Ten": "Chi nhánh A"
+        }
+    },
+    "Gioi_tinh": "Nữ",
+    "Ho_ten": "Dương Hoàng Yến",
+    "Ma_so": "NV_10",
+    "Mail": "dhy@gmail.com",
+    "Mat_khau": "NV_10",
+    "Muc_luong": 6500000,
+    "Ngay_sinh": "24-10-1989",
+    "Ten_Dang_nhap": "NV_10"
+}

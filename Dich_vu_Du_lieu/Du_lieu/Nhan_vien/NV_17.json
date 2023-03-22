@@ -1,0 +1,36 @@
+{
+    "CMND": "008358457",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "Đức"
+        },
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Pháp"
+        },
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+        }
+    ],
+    "Dia_chi": "Lương Quang Bửu Quận 8-TP. HCM\r\n",
+    "Dien_thoai": "0949134",
+    "Don_vi": {
+        "Ma_so": "DV_B2",
+        "Ten": "Tư vấn du học 2",
+        "Chi_nhanh": {
+            "Ma_so": "CN_B",
+            "Ten": "Chi nhánh B"
+        }
+    },
+    "Gioi_tinh": "Nữ",
+    "Ho_ten": "Lục Môn Chi",
+    "Ma_so": "NV_17",
+    "Mail": "lmc@gmail.com",
+    "Mat_khau": "NV_17",
+    "Muc_luong": 10000000,
+    "Ngay_sinh": "06-06-1990",
+    "Ten_Dang_nhap": "NV_17"
+}

@@ -1,0 +1,27 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Ung dung Quan ly Don vi",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "env": {
+                "FLASK_APP": "Ung_dung.py",
+                "FLASK_ENV": "development"
+            },
+            "args": [
+                "run",
+                "--no-debugger",
+                "--host",
+                "localhost",
+                "--port",
+                "5002"
+            ],
+            "jinja": true
+        }
+    ]
+}

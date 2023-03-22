@@ -1,0 +1,32 @@
+{
+    "CMND": "007958643",
+    "Danh_sach_Don_xin_nghi": [],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+        },
+        {
+            "Ma_so": "ANH",
+            "Ten": "Anh"
+        }
+    ],
+    "Dia_chi": "Nơ Trang Long Quận Bình Thạnh-TP. HCM\r\n",
+    "Dien_thoai": "0949134966",
+    "Don_vi": {
+        "Ma_so": "DV_A1",
+        "Ten": "Dịch thuật",
+        "Chi_nhanh": {
+            "Ma_so": "CN_A",
+            "Ten": "Chi nhánh A"
+        }
+    },
+    "Gioi_tinh": "Nữ",
+    "Ho_ten": "Trương Quỳnh Anh",
+    "Ma_so": "NV_8",
+    "Mail": "cqa@gmail.com",
+    "Mat_khau": "NV_8",
+    "Muc_luong": 6500000,
+    "Ngay_sinh": "24-10-1989",
+    "Ten_Dang_nhap": "NV_8"
+}
